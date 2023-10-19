@@ -1,4 +1,4 @@
-package com.example.Library.repos.BookRegistration;
+package com.example.Library.repos;
 
 import com.example.Library.dto.Reports.BookStatRow;
 import com.example.Library.models.Book;

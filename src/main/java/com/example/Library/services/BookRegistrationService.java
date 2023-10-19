@@ -3,7 +3,7 @@ package com.example.Library.services;
 import com.example.Library.Enums.BookStatus;
 import com.example.Library.dto.BookRegistration.BookRegistrationDTO;
 import com.example.Library.models.BookRegistration;
-import com.example.Library.repos.BookRegistration.BookRegistrationRepo;
+import com.example.Library.repos.BookRegistrationRepo;
 import com.example.Library.repos.BookRepo;
 import com.example.Library.repos.PersonRepo;
 import org.springframework.data.domain.PageRequest;

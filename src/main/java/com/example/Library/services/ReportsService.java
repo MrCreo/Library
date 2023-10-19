@@ -3,7 +3,7 @@ package com.example.Library.services;
 import com.example.Library.dto.Reports.BookStatRow;
 import com.example.Library.dto.Reports.GetBookStatsDTO;
 import com.example.Library.models.Book;
-import com.example.Library.repos.BookRegistration.BookRegistrationRepo;
+import com.example.Library.repos.BookRegistrationRepo;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
